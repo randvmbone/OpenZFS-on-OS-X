@@ -36,7 +36,7 @@ randvmb@RANDVMBs-Server ~ % diskutil list
    2:                  Apple_HFS ⁨Untitled⁩                3.0 TB     disk5s2
 ```
 
-## Encrypty Disks
+## Encrypt Disks
 
 **coreStorage convert is no longer available as of macOS Big Sur, use macOS Recovery**
 
